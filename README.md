@@ -41,7 +41,6 @@ The sample run shows good accuracy dominated by the majority “No” class, whi
 
 ### Output
 <img width="412" height="196" alt="image" src="https://github.com/user-attachments/assets/18835f46-7891-4c88-83cc-4c13c67a27b7" />
-***
 
 ## Task 2 – Simple AI Agent (`ai-agent-implementation.ipynb`)
 
@@ -75,7 +74,7 @@ This design cleanly demonstrates the core AI‑agent pattern requested in the as
 3. Execute the final cell to start the console chat, type a few natural language messages (greetings, questions, or farewells), and observe how the agent annotates intent and sentiment before replying.
 
 ### Output
-<img width="781" height="365" alt="image" src="https://github.com/user-attachments/assets/6ff90934-ccc1-4744-85b5-76da098ccdce" />
+<img width="784" height="495" alt="image" src="https://github.com/user-attachments/assets/4691605c-43d7-496a-b3ad-af9821d6b397" />
 
 ***
 
