@@ -39,6 +39,8 @@ The sample run shows good accuracy dominated by the majority “No” class, whi
 2. Install Python dependencies (`pandas`, `scikit-learn`) in your environment, then open and run the notebook cells in order.
 3. At the end of execution the notebook prints test accuracy and the classification report, which can be used for comparison when experimenting with other models or preprocessing choices.
 
+### Output
+<img width="412" height="196" alt="image" src="https://github.com/user-attachments/assets/18835f46-7891-4c88-83cc-4c13c67a27b7" />
 ***
 
 ## Task 2 – Simple AI Agent (`ai-agent-implementation.ipynb`)
@@ -71,6 +73,9 @@ This design cleanly demonstrates the core AI‑agent pattern requested in the as
 1. For the OpenAI‑based variant, configure the `OPENAI_API_KEY` secret in the Kaggle environment (or adapt the key loading section to your own environment) and install the `openai` Python package.
 2. For the rule‑based LangChain variant, install the listed dependencies (such as `langchain` and `langchain-huggingface` where used) and run the notebook cells defining the helper functions and the `chatloop`.
 3. Execute the final cell to start the console chat, type a few natural language messages (greetings, questions, or farewells), and observe how the agent annotates intent and sentiment before replying.
+
+### Output
+<img width="781" height="365" alt="image" src="https://github.com/user-attachments/assets/6ff90934-ccc1-4744-85b5-76da098ccdce" />
 
 ***
 
